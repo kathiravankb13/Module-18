@@ -1,4 +1,4 @@
-# Ex. No: 18A - Prim's Minimum Spanning Tree (MST) Algorithm
+[# Ex. No: 18A - Prim's Minimum Spanning Tree (MST) Algorithm
 
 ## AIM:
 To write a Python program for **Prim's Minimum Spanning Tree (MST)** algorithm.
@@ -35,3 +35,4 @@ ADD YOUR CODE HERE
 ## RESULT
 
 
+](https://github.com/kathiravankb13/Module-18/blob/main/Kruskal's%20Minimum%20Spanning%20Tree%20(MST)%20Algorithm.md)
